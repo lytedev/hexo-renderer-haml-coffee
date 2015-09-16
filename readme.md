@@ -1,11 +1,13 @@
-# [Haml] renderer
+# [Haml Coffee] renderer
 
-Add support for [Haml].
+Add support for [Haml Coffee].
 
 ## Install
 
 ``` bash
-$ npm install hexo-renderer-haml --save
+$ npm install hexo-renderer-haml-coffee --save
 ```
 
-[Haml]: http://haml.info/
+
+[Haml Coffee]: https://github.com/netzpirat/haml-coffee
+
