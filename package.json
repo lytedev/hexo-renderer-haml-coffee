@@ -1,0 +1,32 @@
+{
+  "name": "hexo-renderer-haml-coffee",
+  "version": "0.1.0",
+  "description": "Haml Coffee renderer plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lytedev/hexo-renderer-haml-coffee.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lytedev/hexo-renderer-haml-coffee/issues"
+  },
+  "keywords": [
+    "hexo",
+    "haml",
+    "hamlc",
+    "coffee",
+    "coffeescript",
+    "coffee-script",
+    "script",
+    "renderer"
+  ],
+  "author": "Daniel Flanagan <daniel@lytedev.io> (https://lytedev.io)",
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/lytedev/hexo-renderer-haml-coffee/master/LICENSE"
+  },
+  "dependencies": {
+    "haml-coffee": "^0.6.2",
+    "lodash": "^3.10.1"
+  }
+}
